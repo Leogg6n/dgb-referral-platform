@@ -1,0 +1,22 @@
+# PHPignores
+*.php~
+*.phar
+*.p7c
+*.p7s
+*.pfx
+*.cer
+*.crt
+*.key
+*.pem
+
+# Ignore Composer vendor folder
+/vendor/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.*.local
