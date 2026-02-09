@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'host' => 'localhost',
-    'database' => 'your_database_name',
-    'username' => 'your_username',
-    'password' => 'your_password',
+    'host' => 'b946cxnaoktdqgfimzwl-mysql.services.clever-cloud.com',
+    'database' => 'b946cxnaoktdqgfimzwl',
+    'username' => 'utlggqmbe6vrpbc2',
+    'password' => '7ALpYAeoGSSQfMfhUgsH',
 ];
